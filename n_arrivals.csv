@@ -1,0 +1,8 @@
+Flight_Number,Airline,Minutes_Delayed
+PK101,PIA,40
+PA201,Airblue,NaN
+EK303,Emirates,65
+QR404,Qatar,NaN
+SV505,Saudia,25
+BA606,British Airways,55
+BA707,British Airways,80
